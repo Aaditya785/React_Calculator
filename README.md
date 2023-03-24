@@ -1,1 +1,1 @@
-<a href="https://ibb.co/ZcQszQb"><img src="https://i.ibb.co/bN4h54G/react-Calculator.png" alt="react-Calculator" border="0"></a><br /><a target='_blank' href='https://freeonlinedice.com/'>dnd roll dice</a><br />
+<center>   <a href="https://ibb.co/ZcQszQb"><img src="https://i.ibb.co/bN4h54G/react-Calculator.png" alt="react-Calculator" border="0"></a>   </center>
