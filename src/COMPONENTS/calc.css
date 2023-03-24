@@ -1,0 +1,76 @@
+#root{
+    background: #e7e0e0;
+    color: white;
+    font-family: 'Orbitron', sans-serif;
+    border-radius: 10px;
+    box-shadow: inset 4px 4px 5px 0 rgb(255 255 255 / 20%), inset -4px -4px 5px 0 rgb(0 0 0 / 20%), 0 0 10px 1px rgb(0 0 0 / 25%);
+}
+
+.myCalculator{
+    width: 315px;
+}
+
+.buttons{
+    display: inline-block;
+    margin: 23px 15px;
+}
+
+.btn{
+    background: #323232;
+    color: white;
+    padding: 5%;
+    border: 0px;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    margin: 5px;
+    font-size: 25px;
+    cursor: pointer;
+    outline: none;
+    box-shadow: inset 4px 4px 5px 0 rgb(255 255 255 / 20%), inset -4px -4px 5px 0 rgb(0 0 0 / 20%), 0 0 10px 1px rgb(0 0 0 / 25%);
+}
+.btn:focus, .btn-0:focus{
+    box-shadow: none;
+ }
+
+.btn-calc{
+    background: #FF9500;
+  
+}
+.btn-action{
+    background: #A6A6A6;
+    color: #323232;
+    box-shadow: inset 4px 4px 5px 0 rgb(255 255 255 / 20%), inset -4px -4px 5px 0 rgb(0 0 0 / 20%), 0 0 10px 1px rgb(0 0 0 / 25%);
+}
+
+.btn-0{
+    background: #323232;
+    color: white;
+    border: 0px;
+    margin: 5px;
+    padding: 5%;
+    width: 130px;
+    border-radius: 30px;
+    height: 60px;
+    font-size: 25px;
+    cursor: pointer;
+    outline: none;
+    box-shadow: inset 4px 4px 5px 0 rgb(255 255 255 / 20%), inset -4px -4px 5px 0 rgb(0 0 0 / 20%), 0 0 10px 1px rgb(0 0 0 / 25%);
+}
+.result {
+    width: 100%;
+    height: 60px;
+    border-radius: 20px;
+    background: rgb(255 255 255 / 30%);
+    box-shadow: 0px 0px 20px 0px;
+} 
+
+.result p{
+    text-align: right;
+    font-size: 26px;
+    margin-bottom: 4px;
+    padding-top: 14px;
+    padding-right: 10px;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    color: black;
+}
